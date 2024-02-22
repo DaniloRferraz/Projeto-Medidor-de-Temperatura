@@ -4,3 +4,10 @@ equipamentos, a comunicação serial ESP8266 é uma placa NIC que envia as infor
 servidor com a biblioteca Zabbix (ferramenta de coleta de dados). Através dessas informações é gerado 
 um dashboard no Grafana, uma plataforma interativa de visualização de dados open source para a 
 visualização do resultado obtido.
+
+Componentes:
+
+Módulo ESP8266
+Placa de ensaio pequena Protoboard
+Módulo de sensor de umidade e temperatura DHT-11 com resistor
+Fios jumper
