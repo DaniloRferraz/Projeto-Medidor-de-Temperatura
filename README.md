@@ -9,3 +9,5 @@ Componentes:
 
 Módulo ESP8266
 Placa de ensaio pequena Protoboard, Módulo de sensor de umidade e temperatura DHT-11 com resistor , Fios jumper
+
+![Uploading image.png…]()
