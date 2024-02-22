@@ -10,4 +10,4 @@ Componentes:
 Módulo ESP8266
 Placa de ensaio pequena Protoboard, Módulo de sensor de umidade e temperatura DHT-11 com resistor , Fios jumper
 
-![Uploading image.png…]()
+![image](https://github.com/DaniloRferraz/Projeto-Medidor-de-Temperatura/assets/109363114/3bc153ff-fb0b-4f04-84f4-2fdf3c37509c)
